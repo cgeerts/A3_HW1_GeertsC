@@ -1,0 +1,23 @@
+.bannerContainer { padding:0; }
+
+#topPanel { margin:0; position:relative; }
+
+.sidebarC header { 
+    position:relative;
+    background-color: #690800;
+    height:110px; 
+    font-size:1.25rem;
+    margin:0 -15px;
+}
+
+.sidebarC header p { 
+    display:inline;
+    padding-left:10px;
+}
+
+.clLogo { 
+    position:relative;
+    top: 50%;
+    transform: translateY(-50%);
+    left:40px;
+}
