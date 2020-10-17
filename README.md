@@ -3,7 +3,7 @@ Converting CSS into modular SASS.
 Also practicing with AJAX.
 
 # Prerequisites
-A text editor & GitHub
+Any text editor & Git
 
 # Author
 Carter Geerts • 2020
