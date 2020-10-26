@@ -1,4 +1,4 @@
-# A3_HW1_GeertsC
+# SASS Build
 Converting CSS into modular SASS.
 Also practicing with AJAX.
 
